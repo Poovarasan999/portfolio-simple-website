@@ -6,9 +6,6 @@ This project currently includes **Home** and **Contact** pages and is designed a
 
 ---
 
-## 🚀 Live Preview
-🔗 https://poovarasan999.github.io/portfolio-simple-website/https://poovarasan999.github.io/portfolio-simple-website/
-
 ---
 
 ## 📄 Pages Included
